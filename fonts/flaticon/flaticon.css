@@ -1,0 +1,165 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.html");
+  src: url("Flaticond41d.html?#iefix") format("embedded-opentype"),
+    url("Flaticon.woff2") format("woff2"),
+    url("Flaticon.woff") format("woff"),
+    url("Flaticon-2.html") format("truetype"),
+    url("Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"],
+[class*=" flaticon-"] {
+  font-family: "Flaticon";
+  src: url("Flaticon.svg#Flaticon") format("svg");
+  font-style: normal;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.fimanager:before {
+  display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  display: block;
+}
+
+.flaticon-001-law:before {
+  content: "\f100";
+}
+
+.flaticon-002-contract:before {
+  content: "\f101";
+}
+
+.flaticon-003-courthouse:before {
+  content: "\f102";
+}
+
+.flaticon-004-legal-system:before {
+  content: "\f103";
+}
+
+.flaticon-005-injustice:before {
+  content: "\f104";
+}
+
+.flaticon-006-lawyer:before {
+  content: "\f105";
+}
+
+.flaticon-007-lawyer:before {
+  content: "\f106";
+}
+
+.flaticon-008-signature:before {
+  content: "\f107";
+}
+
+.flaticon-009-jury:before {
+  content: "\f108";
+}
+
+.flaticon-010-criminal:before {
+  content: "\f109";
+}
+
+.flaticon-011-divorce:before {
+  content: "\f10a";
+}
+
+.flaticon-012-judge:before {
+  content: "\f10b";
+}
+
+.flaticon-013-oath:before {
+  content: "\f10c";
+}
+
+.flaticon-014-finger-print:before {
+  content: "\f10d";
+}
+
+.flaticon-015-testimony:before {
+  content: "\f10e";
+}
+
+.flaticon-016-agreement:before {
+  content: "\f10f";
+}
+
+.flaticon-017-police-officer:before {
+  content: "\f110";
+}
+
+.flaticon-018-police-badge:before {
+  content: "\f111";
+}
+
+.flaticon-019-law:before {
+  content: "\f112";
+}
+
+.flaticon-020-legal-document:before {
+  content: "\f113";
+}
+
+.flaticon-021-gavel:before {
+  content: "\f114";
+}
+
+.flaticon-022-law-book:before {
+  content: "\f115";
+}
+
+.flaticon-023-jail:before {
+  content: "\f116";
+}
+
+.flaticon-024-graduating-student:before {
+  content: "\f117";
+}
+
+.flaticon-025-intellectual-property:before {
+  content: "\f118";
+}
+
+.flaticon-026-civil-right:before {
+  content: "\f119";
+}
+
+.flaticon-027-law-book:before {
+  content: "\f11a";
+}
+
+.flaticon-028-newspaper:before {
+  content: "\f11b";
+}
+
+.flaticon-029-lawyer:before {
+  content: "\f11c";
+}
+
+.flaticon-030-advice:before {
+  content: "\f11d";
+}
